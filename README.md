@@ -12,7 +12,7 @@ Al costado izquierdo de cada ítem se muestra un ícono la cual al presionarlo p
 
 ![alt text](https://github.com/CarlosSebastianCarvajal/POO-MOVILES-PRACTICA6-DOWNLOADER-MANGER/blob/main/capturas/Screenshot_1642783720.png)
 
-Una vez que el usuario a otrogado los permisos a la aplicación ya se puede descrgar los ficheros sin ningun iconveniente. En la siguiente imagen, se aprecia en la parte superior izquierda que se encuentra descargando un archivo.
+Una vez que el usuario a otorgado los permisos a la aplicación ya se puede descrgar los ficheros sin ningun iconveniente. En la siguiente imagen, se aprecia en la parte superior izquierda que se encuentra descargando un archivo.
 
 ![alt text](https://github.com/CarlosSebastianCarvajal/POO-MOVILES-PRACTICA6-DOWNLOADER-MANGER/blob/main/capturas/Screenshot_1642783727.png)
 
