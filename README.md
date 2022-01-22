@@ -8,11 +8,11 @@ Como se puede apreciar. Se ecuentra una lista de elementos que contienen una opc
 
 ![alt text](https://github.com/CarlosSebastianCarvajal/POO-MOVILES-PRACTICA6-DOWNLOADER-MANGER/blob/main/capturas/Screenshot_1642783719.png)
 
-Al costado izquierdo de cada ítem se muestra un ícono la cual al presionarlo permite descargar un fichero PDF. Al intentar descargar por primera vez en la aplicacion se muestra un dialogo de permisos que debe permitir el usuario:
+Al costado izquierdo de cada ítem se muestra un ícono la cual al presionarlo permite descargar un fichero PDF. Al intentar descargar por primera vez en la aplicacion se muestra un dialogo de permisos que debe otorgar el usuario:
 
 ![alt text](https://github.com/CarlosSebastianCarvajal/POO-MOVILES-PRACTICA6-DOWNLOADER-MANGER/blob/main/capturas/Screenshot_1642783720.png)
 
-Una vez que el usuario a otorgado los permisos a la aplicación ya se puede descrgar los ficheros sin ningun iconveniente. En la siguiente imagen, se aprecia en la parte superior izquierda que se encuentra descargando un archivo.
+Una vez que el usuario ha otorgado los permisos a la aplicación ya se puede descargar los ficheros sin ningun iconveniente. En la siguiente imagen, se aprecia en la parte superior izquierda que se encuentra descargando un archivo.
 
 ![alt text](https://github.com/CarlosSebastianCarvajal/POO-MOVILES-PRACTICA6-DOWNLOADER-MANGER/blob/main/capturas/Screenshot_1642783727.png)
 
